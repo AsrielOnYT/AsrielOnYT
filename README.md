@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @AsrielOnYT
+- 👀 I’m interested in gamedev
+- 🌱 I’m currently trying to learn programming (like C#) 
